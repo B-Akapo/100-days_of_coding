@@ -1,6 +1,10 @@
+# Author: Bunmi Akapo
+# Date:28th September 2022
+# Description: learning to use print()
+
 print("""Bunmi
 28th September 2022
-I am signing up for Replit's 100 days of Python
+am signing up for Replit's 100 days of Python
 challenge!
 I will make sure to spend some time everyday coding
 along, for a minimum of 10 minutes a day.
