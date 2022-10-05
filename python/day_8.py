@@ -1,5 +1,5 @@
 # Author: Bunmi Akapo
-# Date: 5th October 2022
+# Date: 6th October 2022
 # Description: create daily affirmation statement taking user input
 
 name = input("Hello there. What's your name? ")
