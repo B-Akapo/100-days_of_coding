@@ -17,3 +17,5 @@ The challenge started on the 28th of September 2022
 **[day_6.py](https://github.com/B-Akapo/100-days_of_coding/blob/main/python/day_6.py)** - User logins with their username and password correctly and then gets individual greeting.
 
 **[day_7.py](https://github.com/B-Akapo/100-days_of_coding/blob/main/python/day_7.py)** - program that checks a real backstreet boys fan using nested if statements to ask  follow-up questions
+
+**[day_8.py](https://github.com/B-Akapo/100-days_of_coding/blob/main/python/day_8.py)** - create daily affirmation statement taking user input
