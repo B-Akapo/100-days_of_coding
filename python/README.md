@@ -19,3 +19,5 @@ The challenge started on the 28th of September 2022
 **[day_7.py](https://github.com/B-Akapo/100-days_of_coding/blob/main/python/day_7.py)** - Program that checks a real backstreet boys fan using nested if statements to ask  follow-up questions
 
 **[day_8.py](https://github.com/B-Akapo/100-days_of_coding/blob/main/python/day_8.py)** - Create daily affirmation statement taking user input
+
+**[day_9.py](https://github.com/B-Akapo/100-days_of_coding/blob/main/python/day_9.py)** - Telling a user their generational group after inputting the year of their birth
