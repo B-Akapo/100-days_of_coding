@@ -1,6 +1,6 @@
 # Author: Bunmi Akapo
 # Date: 11th October 2022
-# Description: part 1 of 2 calculating the bill including tip shared by friends
+# Description: part 1 of 2 calculating the bill including tip shared by friends. see day_10-2.py for part 2
 
 bill = float(input("What was the total Bill? "))
 percentage = int(input("How much percentage tip do you want to leave? "))
@@ -12,4 +12,4 @@ individual_bill = total_bill / people
 # roundup bill to two decimal places
 individual_bill = round(individual_bill, 2)
 
-print(f"The total bill is {total_bill} with {people} of you that brings the bill to {individual_bill} each")
+print(f"The total bill is {total_bill} with {people} of you that brings the bill to {individual_bill} each. Thank you.")
