@@ -1,6 +1,6 @@
 # Author: Bunmi Akapo
 # Date: 11th October 2022
-# Description: part 1. calculating the bill including tip shared by friends
+# Description: part 1 of 2 calculating the bill including tip shared by friends
 
 bill = float(input("What was the total Bill? "))
 percentage = int(input("How much percentage tip do you want to leave? "))
