@@ -23,3 +23,5 @@ The challenge started on the 28th of September 2022
 **[day_9.py](https://github.com/B-Akapo/100-days_of_coding/blob/main/python/day_9.py)** - Telling a user their generational group after inputting the year of their birth
 
 **[day_10.py](https://github.com/B-Akapo/100-days_of_coding/blob/main/python/day_10.py)** - Calculating the bill including tip shared by friends.
+
+**[day_11.py](https://github.com/B-Akapo/100-days_of_coding/blob/main/python/day_11.py)** - Check how many seconds are in a given year.
