@@ -1,6 +1,6 @@
 # 100 Days of Python
 Programming begins and ends with practice. 
-So I have decided to try replit's 100 day coding challenge to build my skills. 
+So I have decided to try replit's-100 day coding challenge to build my skills. 
 In this directory, I will be using python as my primary language.
 The challenge started on the 28th of September 2022
 
@@ -25,3 +25,5 @@ The challenge started on the 28th of September 2022
 **[day_10.py](https://github.com/B-Akapo/100-days_of_coding/blob/main/python/day_10.py)** - Calculating the bill including tip shared by friends.
 
 **[day_11.py](https://github.com/B-Akapo/100-days_of_coding/blob/main/python/day_11.py)** - Check how many seconds are in a given year.
+
+**[day_12.py](https://github.com/B-Akapo/100-days_of_coding/blob/main/python/day_12.py)** - debugging exercise. I had to debug the code to make it run
