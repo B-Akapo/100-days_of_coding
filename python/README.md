@@ -26,4 +26,8 @@ The challenge started on the 28th of September 2022
 
 **[day_11.py](https://github.com/B-Akapo/100-days_of_coding/blob/main/python/day_11.py)** - Check how many seconds are in a given year.
 
-**[day_12.py](https://github.com/B-Akapo/100-days_of_coding/blob/main/python/day_12.py)** - debugging exercise. I had to debug the code to make it run
+**[day_12.py](https://github.com/B-Akapo/100-days_of_coding/blob/main/python/day_12.py)** - Debugging exercise. I had to debug the code to make it run
+
+**[day_13.py](https://github.com/B-Akapo/100-days_of_coding/blob/main/python/day_13.py)** - Create a grading system where user inputs score, and you give them a grade
+
+**[day_14.py](https://github.com/B-Akapo/100-days_of_coding/blob/main/python/day_14.py)** - Rock Paper Scissors game
