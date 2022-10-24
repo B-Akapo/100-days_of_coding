@@ -33,3 +33,5 @@ The challenge started on the 28th of September 2022
 **[day_14.py](https://github.com/B-Akapo/100-days_of_coding/blob/main/python/day_14.py)** - Rock Paper Scissors game
 
 **[day_15.py](https://github.com/B-Akapo/100-days_of_coding/blob/main/python/day_15.py)** - Using While Loop to ask a question till user exits
+
+**[day_16.py](https://github.com/B-Akapo/100-days_of_coding/blob/main/python/day_16.py)** - Using While Loop to make user complete a sentence
