@@ -2,8 +2,8 @@
 # Date: 22nd October 2022
 # Description: Using While Loop to ask a question till user exits
 
-exit = ""
-while exit != "yes":
+stop = ""
+while stop != "yes":
     animal = input("What animal do you want to listen to? ")
     animal = animal.lower()
     if animal == "cow":
@@ -14,4 +14,4 @@ while exit != "yes":
         print(f"the {animal} goes meow")
     else:
         print("Sorry we dont have that sound.")
-    exit = input("do you wanna leave? ")
+    stop = input("do you wanna leave? ")
